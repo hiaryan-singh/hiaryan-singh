@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Aryan Singh 👋
 
-<!--
-**hiaryan-singh/hiaryan-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about **Data Science and Artifical Intelligence**. I spend my time exploring datasets, building predictive models, and understanding the math behind ML algorithms.
 
-Here are some ideas to get you started:
+## what I'm Learning Right Now:
+- **Programming:** C, C++, Python
+- **Data Analysis:** Pandas, NumPy, Matplotlib (Exploratry Data Analysis)
+- **Machine Learning:** regression, Classifiction, and Clustering
+- **Tools:** Jupyter Notebooks, Google Colab and Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goal:
+I am working on building my foundation and looking forward to participating in **Kaggle** competitions soon!
+
+### 🌐 Let's Connect:
+- **LinkedIn:** www.linkedin.com/in/aryan-singh-ab7244407
+---
+*"The goal is to turn data into information, and information into insight."*
