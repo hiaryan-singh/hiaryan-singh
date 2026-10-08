@@ -1,6 +1,6 @@
 ## Hi there, I'm Aryan Singh 👋
 
-I am a student passionate about **Data Science and Artifical Intelligence**. I spend my time exploring datasets, building predictive models, and understanding the math behind ML algorithms.
+I am a student passionate about **Data Science and Artificial Intelligence**. I spend my time exploring datasets, building predictive models, and understanding the math behind ML algorithms.
 
 ## what I'm Learning Right Now:
 - **Programming:** C, C++, Python
