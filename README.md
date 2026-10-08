@@ -2,10 +2,10 @@
 
 I am a student passionate about **Data Science and Artificial Intelligence**. I spend my time exploring datasets, building predictive models, and understanding the math behind ML algorithms.
 
-## what I'm Learning Right Now:
+## What I'm Learning Right Now:
 - **Programming:** C, C++, Python
 - **Data Analysis:** Pandas, NumPy, Matplotlib (Exploratry Data Analysis)
-- **Machine Learning:** regression, Classifiction, and Clustering
+- **Machine Learning:** Regression, Classification, and Clustering
 - **Tools:** Jupyter Notebooks, Google Colab and Git/GitHub
 
 ### 📈 Current Goal:
