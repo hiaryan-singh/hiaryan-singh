@@ -1,17 +1,19 @@
-## Hi there, I'm Aryan Singh 👋
+## Hi, I'm Aryan Singh 👋
 
-I am a student passionate about **Data Science and Artificial Intelligence**. I spend my time exploring datasets, building predictive models, and understanding the math behind ML algorithms.
+Computer Science student learning **Data Science and AI/ML**. I'm building my skills step by step and sharing the work here.
 
-## What I'm Learning Right Now:
+### 🛠 What I'm learning
 - **Programming:** C, C++, Python
-- **Data Analysis:** Pandas, NumPy, Matplotlib (Exploratry Data Analysis)
-- **Machine Learning:** Regression, Classification, and Clustering
-- **Tools:** Jupyter Notebooks, Google Colab and Git/GitHub
+- **Data analysis:** Pandas, NumPy, Matplotlib
+- **Machine learning:** Regression, Classification, Clustering
+- **Tools:** Jupyter Notebook, Google Colab, Git/GitHub
 
-### 📈 Current Goal:
-I am working on building my foundation and looking forward to participating in **Kaggle** competitions soon!
+### 📂 Featured projects
+- [Real-Time Object Tracking](https://github.com/hiaryan-singh/CodeAlpha_real-time-object-tracking) – tracks moving objects using Python
+- [Language Translation Tool](https://github.com/hiaryan-singh/CodeAlpha_Language-Translation-Tool) – web app with translation, text-to-speech and copy
 
-### 🌐 Let's Connect:
-- **LinkedIn:** www.linkedin.com/in/aryan-singh-ab7244407
----
-*"The goal is to turn data into information, and information into insight."*
+### 🎯 Current goal
+Finish my first end-to-end ML project, then enter a Kaggle competition.
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/aryan-singh-ab7244407)
